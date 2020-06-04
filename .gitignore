@@ -1,0 +1,5 @@
+#Ignoring target directory and the elements inside
+target/
+
+#IntelliJ IDEA
+.idea/
